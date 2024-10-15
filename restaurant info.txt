@@ -1,0 +1,97 @@
+    {
+        "name": "Restaurant Zapomenuty Cas",
+        "available_table": "2",
+        "status": "free",
+        "latitude": 50.0764,
+        "longitude": 14.4343,
+        "distance": 0.2,
+        "additional_amenities": "Online Ordering",
+        "cuisine_type": "Italian",
+        "rating": "3.5 star",
+        "dietary_restrictions": "Vegetarian"
+    },
+    {
+        "name": "Restaurant Pepř a Sůl",
+        "available_table": "3",
+        "status": "free",
+        "latitude": 50.1115,
+        "longitude": 14.5005,
+        "distance": 0.9,
+        "additional_amenities": "Online Ordering",
+        "cuisine_type": "Chinese",
+        "rating": "3 star",
+        "dietary_restrictions": "Vegetarian"
+    },
+    {
+        "name": "King Solomon - Glatt Kosher Restaurant",
+        "available_table": "4",
+        "status": "free",
+        "latitude": 50.0755,
+        "longitude": 14.4378,
+        "distance": 3,
+        "additional_amenities": "Private Dining Rooms",
+        "cuisine_type": "Italian",
+        "rating": "4.5 star",
+        "dietary_restrictions": "Gluten Free"
+    },
+    {
+        "name": "U Tri jelinku",
+        "available_table": "2",
+        "status": "free",
+        "latitude": 50.0887,
+        "longitude": 14.4018,
+        "distance": 4,
+        "additional_amenities": "Private Dining Rooms",
+        "cuisine_type": "Chinese",
+        "rating": "3 star",
+        "dietary_restrictions": "Gluten Free"
+    },
+    {
+        "name": "The Eatery",
+        "available_table": "2",
+        "status": "free",
+        "latitude": 50.1075,
+        "longitude": 14.4508,
+        "distance": 5,
+        "additional_amenities": "Special Dietary Menus",
+        "cuisine_type": "Vegetarian",
+        "rating": "5 star",
+        "dietary_restrictions": "Vegan"
+    },
+    {
+        "name": "La Finestra in Cucina",
+        "available_table": "2",
+        "status": "free",
+        "latitude": 50.1075,
+        "longitude": 14.4508,
+        "distance": 2,
+        "additional_amenities": "Special Dietary Menus",
+        "cuisine_type": "Vegan",
+        "rating": "4.5 star",
+        "dietary_restrictions": "Vegan"
+    },
+    {
+        "name": "Le Grill Restaurant",
+        "available_table": "2",
+        "status": "free",
+        "latitude": 50.1075,
+        "longitude": 14.4508,
+        "distance": 2.2,
+        "additional_amenities": "Outdoor Seating",
+        "cuisine_type": "Italian",
+        "rating": "5 star",
+        "dietary_restrictions": "Dairy Free"
+    },
+    {
+        "name": "Agave Restaurant",
+        "available_table": "2",
+        "status": "free",
+        "latitude": 50.1075,
+        "longitude": 14.4508,
+        "distance": 2.2,
+        "additional_amenities": "Outdoor Seating",
+        "cuisine_type": "Lebanese",
+        "rating": "4 star",
+        "dietary_restrictions": "Dairy Free"
+    }
+]
